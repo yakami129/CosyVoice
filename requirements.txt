@@ -24,10 +24,11 @@ pydantic==2.7.0
 rich==13.7.1
 soundfile==0.12.1
 tensorboard==2.14.0
-torch==2.0.1
-torchaudio==2.0.2
+torch==2.4.1
+torchaudio==2.4.1
 uvicorn==0.30.0
 wget==3.2
 fastapi==0.111.0
 fastapi-cli==0.0.4
 WeTextProcessing==1.0.3
+huggingface_hub==0.24.7
